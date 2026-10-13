@@ -1,0 +1,2 @@
+vless://123e4567-e89b-12d3-a456-426614174000@proxy.example.com:443?type=tcp&security=tls&sni=proxy.example.com#main
+vless://123e4567-e89b-12d3-a456-426614174000@[2001:db8::1]:8443?type=grpc&security=reality&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&serviceName=edge
